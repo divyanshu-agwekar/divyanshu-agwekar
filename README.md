@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Divyanshu 👋
 
-<!--
-**divyanshu-agwekar/divyanshu-agwekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science Student  
+💻 Learning Python & Data Analysis  
+📊 Interested in Data Science & Analytics  
 
-Here are some ideas to get you started:
+## Projects
+- Netflix Data Analysis  
+- YouTube Trending Analysis (in progress)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python  
+- Pandas  
+- Matplotlib  
