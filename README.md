@@ -5,7 +5,7 @@
 📊 Interested in Data Science & Analytics  
 
 ## Projects
-- Netflix Data Analysis  
+- Netflix Data Analysis → https://github.com/divyanshu-agwekar/Netflix-Data-Analysis
 - YouTube Trending Analysis (in progress)  
 
 ## Skills
