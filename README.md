@@ -5,8 +5,14 @@
 📊 Interested in Data Science & Analytics  
 
 ## Projects
-- Netflix Data Analysis → https://github.com/divyanshu-agwekar/Netflix-Data-Analysis
-- YouTube Trending Analysis (in progress)  
+
+- 🚍 Transport Demand Prediction (Machine Learning)  
+  → https://github.com/divyanshu-agwekar/Transport-Demand-Prediction  
+
+- 📊 Netflix Data Analysis  
+  → https://github.com/divyanshu-agwekar/Netflix-Data-Analysis  
+
+- 📺 YouTube Trending Analysis (in progress) 
 
 ## Skills
 - Python  
