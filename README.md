@@ -10,6 +10,10 @@
   → https://github.com/divyanshu-agwekar/Expense-Tracker-Analysis  
   Analyzing personal spending patterns to identify insights and improve budgeting.
 
+- 📊 Sales Data Analysis (SQL + Seaborn)  
+  → https://github.com/divyanshu-agwekar/Sales-Data-Analysis-SQL  
+  Extracting insights using SQL queries and visualizing trends with Seaborn.
+
 - 🚍 Transport Demand Prediction (Machine Learning)  
   → https://github.com/divyanshu-agwekar/Transport-Demand-Prediction  
   Predicting bus seat demand using Linear Regression.
@@ -25,8 +29,10 @@
 ## Skills
 
 - Python  
+- SQL  
 - Pandas  
+- Seaborn  
 - Matplotlib  
 - Data Analysis  
-- Machine Learning (Linear Regression)  
 - Data Visualization  
+- Machine Learning (Linear Regression)  
