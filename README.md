@@ -8,11 +8,15 @@
 
 - 🚍 Transport Demand Prediction (Machine Learning)  
   → https://github.com/divyanshu-agwekar/Transport-Demand-Prediction  
+  Predicting bus seat demand using Linear Regression.
+
+- 📺 YouTube Trending Data Analysis  
+  → https://github.com/divyanshu-agwekar/YouTube-Trending-Analysis  
+  Analyzing trends, engagement, and patterns in YouTube videos.
 
 - 📊 Netflix Data Analysis  
   → https://github.com/divyanshu-agwekar/Netflix-Data-Analysis  
-
-- 📺 YouTube Trending Analysis (in progress) 
+  Exploring content distribution and trends using data analysis.
 
 ## Skills
 - Python  
