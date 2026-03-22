@@ -22,3 +22,5 @@
 - Python  
 - Pandas  
 - Matplotlib  
+- Data Analysis  
+- Machine Learning (Linear Regression)
