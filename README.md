@@ -6,6 +6,10 @@
 
 ## Projects
 
+- 💰 Expense Tracker Analysis  
+  → https://github.com/divyanshu-agwekar/Expense-Tracker-Analysis  
+  Analyzing personal spending patterns to identify insights and improve budgeting.
+
 - 🚍 Transport Demand Prediction (Machine Learning)  
   → https://github.com/divyanshu-agwekar/Transport-Demand-Prediction  
   Predicting bus seat demand using Linear Regression.
@@ -19,8 +23,10 @@
   Exploring content distribution and trends using data analysis.
 
 ## Skills
+
 - Python  
 - Pandas  
 - Matplotlib  
 - Data Analysis  
-- Machine Learning (Linear Regression)
+- Machine Learning (Linear Regression)  
+- Data Visualization  
